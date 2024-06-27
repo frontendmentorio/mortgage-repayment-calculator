@@ -18,6 +18,8 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 Your users should be able to: 
 
+- Input mortgage information and see monthly repayment and total repayment amounts after submitting the form
+- See form validation messages if any field is incomplete
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
